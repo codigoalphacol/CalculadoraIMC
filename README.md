@@ -1,4 +1,7 @@
 # calculadora_imc
+![Codigo Alpha Flutter]
+
+![alt text](https://github.com/codigoalphacol/CalculadoraIMC/blob/master/assets/images/imc.png) 
 
 App Calcula el indice de masa corporal y le sugiere el peso que deberia tener,
 es creada con Flutter, si desea ver el codigo puede buscarlo en el canal
